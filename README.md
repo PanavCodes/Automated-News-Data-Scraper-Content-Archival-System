@@ -2,16 +2,9 @@
 
 ## About The Project
 
-This Python script is designed to scrape articles from The Guardian's technology section using their API. It fetches article data, extracts the titles and content, and then saves each article's content to separate text files. The text files are organized in a folder named with the current date and time of the scraping. You can customize the script by changing the URL to target different sections or sources on The Guardian's website. This script is useful for collecting and archiving articles for research or analysis.
 
-## Built With
+A Python-based automated web scraping system that collects and archives technology articles from The Guardian using their API. The project extracts article titles and full content, organizes them into structured text files, and stores them in timestamped directories for efficient data management and future analysis.
 
- - Beautiful Soup
-
-## Getting Started
-
-This will help you understand how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ## Installation Steps
 

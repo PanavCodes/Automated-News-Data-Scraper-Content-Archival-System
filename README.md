@@ -1,4 +1,4 @@
-# Article-Web-Scraping
+# Automated-News-Data-Scraper-Content-Archival-System
 
 ## About The Project
 
